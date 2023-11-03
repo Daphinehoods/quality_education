@@ -1,0 +1,44 @@
+BODY{
+	background-color: deeppink;
+}
+p{
+	font-family: RomanTimes;
+	font-size: 25px;
+	color: darkgreen;
+}
+h1{
+	font-family: algerian;
+	background-color: darkred;
+	font-size: 25px;
+	color: lightblue;
+	display: inline;
+	padding: 15px;
+	border: solid;
+}
+h3{
+	background-color:orange ;
+	font-family: algerian;
+	font-size: 15px;
+	display: inline;
+	padding: 8px;
+	border: dotted;
+}
+h4{
+	font-family: algerian;
+	font-size: 20px;
+	color: darkblue;
+	background-color:saddlebrown;
+	display: inline;
+	padding:8px;
+	border: double;
+}
+ul{
+	font-family: RomanTimes;
+	font-size: 18px;
+	color: darkblue;
+}
+ol{
+    font-family: RomanTimes;
+	font-size: 18px;
+	color: darkblue;
+}
